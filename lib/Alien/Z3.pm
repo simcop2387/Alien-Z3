@@ -3,7 +3,7 @@ use strict;
 use warnings;
 
 # ABSTRACT: Perl distribution for Z3 Solver
-our $VERSION = '0.002';
+our $VERSION = '0.003';
 
 use parent 'Alien::Base';
 
